@@ -504,9 +504,9 @@ body {
   padding: 100px 0;
 }
 
-/* .foot-box {
+.foot-box {
   margin-right: 120px;
-
+}
 
 /* social media */
 
@@ -563,7 +563,6 @@ body {
   align-items: baseline;
   margin-left: 156px;
   max-width: 264px;
-  gap: 120px;
 }
 
 .media-title {
